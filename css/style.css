@@ -55,3 +55,33 @@ a {
     text-decoration: none;
 
 }
+.container{
+ width: 1200px;
+ padding: 0 10px;
+ margin: 0 auto;
+}
+
+/* ============== HEADER =========== */
+
+.header {
+    display: flex;
+    height: 70px;
+}
+.header .container{
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {}
+
+.header-nav {
+    margin-left: auto;
+}
+
+.header-list {
+    display: flex;
+}
+
+.header-item {}
+
+.header-link {}
